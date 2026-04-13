@@ -683,7 +683,7 @@ Not for commercial use or redistribution.
 
 ## 🙏 Acknowledgments
 
-- NSP2026 Course Instructors and TAs
+- NSP2026 Dr. Supratim Ray and TAs (Vinod Kumar Jaini, Shashank)
 - Chronux development team (Mitra & Bokil)
 - Original authors of connectivity methods (Vinck et al., Shirhatti et al.)
 
