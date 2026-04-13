@@ -1,0 +1,35 @@
+# MATLAB autosave files
+*.asv
+*.m~
+
+# Data files (too large for GitHub)
+*.mat
+
+# Output directories
+Question 1 Plots/
+Question 2 Plots/
+Question 3 Plots/
+Question_3_Plots/
+Question_4_Plots/
+Question_4_Plots_FFT/
+
+# Temporary files
+temp_chanlocs.mat
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MATLAB compiled files
+*.mex*
+*.p
+
+# Output files
+*.png
+*.fig
+
+# Editor files
+.vscode/
+.idea/
+*~
