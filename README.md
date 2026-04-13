@@ -647,8 +647,6 @@ Each question folder contains a detailed README with:
 
 ### Common Questions
 
-**Q: Where do I get the data files?**  
-A: From your NSP2026 course resources (Teams/Drive/Website)
 
 **Q: Can I run without Chronux?**  
 A: No, Chronux is required for main codes. Appendix codes use standard FFT.
